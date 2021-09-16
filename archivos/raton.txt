@@ -1,0 +1,4 @@
+
+Raton [idRaton: 1 Dispositivo Entrada [Tipo: USB Marca: HP]]
+Raton [idRaton: 1 Dispositivo Entrada [Tipo: USB Marca: HP]]
+Raton [idRaton: 1 Dispositivo Entrada [Tipo: USB Marca: HP]]

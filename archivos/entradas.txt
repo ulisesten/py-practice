@@ -1,0 +1,6 @@
+USB
+PS/2
+Bluetooth
+Wirelees
+Micro-USB
+USB-Tipo C

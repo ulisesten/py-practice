@@ -1,0 +1,4 @@
+
+Teclado [idTeclado: 1 Dispositivo Entrada [Tipo: Bluetooth Marca: HP]]
+Teclado [idTeclado: 2 Dispositivo Entrada [Tipo: PS/2 Marca: DELL]]
+Teclado [idTeclado: 1 Dispositivo Entrada [Tipo: Wirelees Marca: Genius]]

@@ -1,0 +1,123 @@
+07:17:52 PM: DEBUG [Conexion.py:21] Conexión exitosa: <pyodbc.Connection object at 0x00000228085AE370>
+07:17:52 PM: DEBUG [Conexion.py:34] Se abrió correctamente el cursor: <pyodbc.Cursor object at 0x00000228085B73B0>
+07:22:26 PM: DEBUG [Conexion.py:21] Conexión exitosa: <pyodbc.Connection object at 0x000001F10AE0C1D0>
+07:22:26 PM: DEBUG [Conexion.py:34] Se abrió correctamente el cursor: <pyodbc.Cursor object at 0x000001F10ADFAA30>
+07:39:34 PM: DEBUG [Conexion.py:21] Conexión exitosa: <pyodbc.Connection object at 0x00000203D7446E00>
+07:39:34 PM: DEBUG [Conexion.py:34] Se abrió correctamente el cursor: <pyodbc.Cursor object at 0x00000203D781BEB0>
+07:41:41 PM: DEBUG [Conexion.py:21] Conexión exitosa: <pyodbc.Connection object at 0x0000017F5206D2A0>
+07:41:41 PM: DEBUG [Conexion.py:34] Se abrió correctamente el cursor: <pyodbc.Cursor object at 0x0000017F5205BE30>
+07:47:31 PM: DEBUG [Conexion.py:21] Conexión exitosa: <pyodbc.Connection object at 0x000001524C1BF370>
+07:47:31 PM: DEBUG [Conexion.py:34] Se abrió correctamente el cursor: <pyodbc.Cursor object at 0x000001524C1CA3B0>
+07:48:46 PM: DEBUG [Conexion.py:21] Conexión exitosa: <pyodbc.Connection object at 0x00000211FB09E1D0>
+07:48:46 PM: DEBUG [Conexion.py:34] Se abrió correctamente el cursor: <pyodbc.Cursor object at 0x00000211FB08BA30>
+07:55:20 PM: DEBUG [Conexion.py:21] Conexión exitosa: <pyodbc.Connection object at 0x000002139A06CED0>
+07:55:20 PM: DEBUG [Conexion.py:34] Se abrió correctamente el cursor: <pyodbc.Cursor object at 0x000002139A437C30>
+07:57:01 PM: DEBUG [Conexion.py:21] Conexión exitosa: <pyodbc.Connection object at 0x000001923F87DED0>
+07:57:01 PM: DEBUG [Conexion.py:34] Se abrió correctamente el cursor: <pyodbc.Cursor object at 0x000001923FC47C30>
+07:57:56 PM: DEBUG [Conexion.py:21] Conexión exitosa: <pyodbc.Connection object at 0x000002525437DED0>
+07:57:56 PM: DEBUG [Conexion.py:34] Se abrió correctamente el cursor: <pyodbc.Cursor object at 0x0000025254747C30>
+08:07:14 PM: DEBUG [Conexion.py:21] Conexión exitosa: <pyodbc.Connection object at 0x00000241363FDED0>
+08:07:14 PM: DEBUG [Conexion.py:34] Se abrió correctamente el cursor: <pyodbc.Cursor object at 0x00000241367C7C30>
+08:07:14 PM: DEBUG [PersonaDAO.py:66] Ingreso de persona exitoso: Persona {'_nombre': 'Carla', '_cedula': '5454567897', '_telefono': '54', '_email': 'asdfsad', '_id_persona': None, '_apellido': 'Perez'}
+07:03:43 PM: DEBUG [Conexion.py:21] Conexión exitosa: <pyodbc.Connection object at 0x00000277744FB5E0>
+07:03:43 PM: DEBUG [Conexion.py:34] Se abrió correctamente el cursor: <pyodbc.Cursor object at 0x000002777451AAB0>
+07:07:07 PM: DEBUG [Conexion.py:21] Conexión exitosa: <pyodbc.Connection object at 0x000002618F00B5E0>
+07:07:07 PM: DEBUG [Conexion.py:34] Se abrió correctamente el cursor: <pyodbc.Cursor object at 0x000002618F02DA30>
+07:08:56 PM: DEBUG [Conexion.py:21] Conexión exitosa: <pyodbc.Connection object at 0x0000021C17DBB5E0>
+07:08:56 PM: DEBUG [Conexion.py:34] Se abrió correctamente el cursor: <pyodbc.Cursor object at 0x0000021C17DDDA30>
+07:10:17 PM: DEBUG [Conexion.py:21] Conexión exitosa: <pyodbc.Connection object at 0x0000020C81FBB5E0>
+07:10:17 PM: DEBUG [Conexion.py:34] Se abrió correctamente el cursor: <pyodbc.Cursor object at 0x0000020C81FDDA30>
+07:18:10 PM: DEBUG [Conexion.py:21] Conexión exitosa: <pyodbc.Connection object at 0x0000026E8655D5E0>
+07:18:10 PM: DEBUG [Conexion.py:34] Se abrió correctamente el cursor: <pyodbc.Cursor object at 0x0000026E8657BAB0>
+07:18:33 PM: DEBUG [PersonaDAO.py:72] Actualización de persona exitoso: Persona {'_nombre': 'Mayra', '_cedula': '0123477777', '_telefono': None, '_email': 'mproanio15@mail.com', '_id_persona': 8, '_apellido': 'Proaño'}
+07:19:35 PM: DEBUG [PersonaDAO.py:72] Actualización de persona exitoso: Persona {'_nombre': 'Manuel', '_cedula': '8847893333', '_telefono': None, '_email': 'mperez@mail.com', '_id_persona': 1, '_apellido': 'Perez'}
+07:28:54 PM: DEBUG [Conexion.py:21] Conexión exitosa: <pyodbc.Connection object at 0x00000287FDD9C6B0>
+07:28:54 PM: DEBUG [Conexion.py:34] Se abrió correctamente el cursor: <pyodbc.Cursor object at 0x00000287FE1BDB30>
+07:29:13 PM: DEBUG [PersonaDAO.py:72] Actualización de persona exitoso: Persona {'_nombre': 'Carla', '_cedula': '5454567897', '_telefono': None, '_email': 'cpaz@mail.com', '_id_persona': 26, '_apellido': 'Paz'}
+07:36:46 PM: DEBUG [Conexion.py:21] Conexión exitosa: <pyodbc.Connection object at 0x000002AD5CB551D0>
+07:36:46 PM: DEBUG [Conexion.py:34] Se abrió correctamente el cursor: <pyodbc.Cursor object at 0x000002AD5CC62A30>
+07:37:33 PM: DEBUG [Conexion.py:21] Conexión exitosa: <pyodbc.Connection object at 0x00000162708B51D0>
+07:37:33 PM: DEBUG [Conexion.py:34] Se abrió correctamente el cursor: <pyodbc.Cursor object at 0x0000016270BD2A30>
+07:37:33 PM: DEBUG [PersonaDAO.py:79] Eliminación de persona exitoso: Persona {'_nombre': 'Carlos', '_cedula': '654397410 ', '_telefono': None, '_email': 'cruiz@mail.com', '_id_persona': 10, '_apellido': 'Ruiz'}
+07:38:10 PM: DEBUG [PersonaDAO.py:79] Eliminación de persona exitoso: Persona {'_nombre': 'Manuel', '_cedula': '0258741258', '_telefono': None, '_email': 'mcarrion@mail.com', '_id_persona': 19, '_apellido': 'Carrion'}
+07:43:16 PM: DEBUG [Conexion.py:21] Conexión exitosa: <pyodbc.Connection object at 0x0000015567A651D0>
+07:43:16 PM: DEBUG [Conexion.py:34] Se abrió correctamente el cursor: <pyodbc.Cursor object at 0x0000015567B569B0>
+07:43:23 PM: DEBUG [PersonaDAO.py:79] Eliminación de persona exitoso: Persona {'_nombre': 'Carla', '_cedula': '5454567897', '_telefono': None, '_email': 'cpaz@mail.com', '_id_persona': 26, '_apellido': 'Paz'}
+08:02:43 PM: DEBUG [Conexion.py:21] Conexión exitosa: <pyodbc.Connection object at 0x00000164BFD7DED0>
+08:02:43 PM: DEBUG [Conexion.py:34] Se abrió correctamente el cursor: <pyodbc.Cursor object at 0x00000164C0147D30>
+08:07:48 PM: DEBUG [Conexion.py:21] Conexión exitosa: <pyodbc.Connection object at 0x0000021C07CD9100>
+08:07:48 PM: DEBUG [Conexion.py:34] Se abrió correctamente el cursor: <pyodbc.Cursor object at 0x0000021C07D776B0>
+08:07:48 PM: ERROR [PersonaDAO.py:68] Error al ingresar la persona: ('23000', "[23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot insert duplicate key row in object 'dbo.Personas' with unique index 'UQ_cedula'. The duplicate key value is (0123477777). (2601) (SQLExecDirectW); [23000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The statement has been terminated. (3621)")
+08:14:26 PM: DEBUG [Conexion.py:21] Conexión exitosa: <pyodbc.Connection object at 0x000002F1A9289100>
+08:14:26 PM: DEBUG [Conexion.py:34] Se abrió correctamente el cursor: <pyodbc.Cursor object at 0x000002F1A93476B0>
+08:14:26 PM: ERROR [PersonaDAO.py:70] Error al ingresar la persona: <class 'pyodbc.IntegrityError'>
+05:47:17 PM: ERROR [Conexion.py:24] Ocurrió una excepción al obtener la conexión: <class 'pyodbc.Error'> returned a result with an error set
+05:48:26 PM: ERROR [Conexion.py:24] Ocurrió una excepción al obtener la conexión: ('08001', '[08001] [Microsoft][ODBC Driver 17 for SQL Server]Named Pipes Provider: Could not open a connection to SQL Server [53].  (53) (SQLDriverConnect); [08001] [Microsoft][ODBC Driver 17 for SQL Server]Login timeout expired (0); [08001] [Microsoft][ODBC Driver 17 for SQL Server]A network-related or instance-specific error has occurred while establishing a connection to SQL Server. Server is not found or not accessible. Check if instance name is correct and if SQL Server is configured to allow remote connections. For more information see SQL Server Books Online. (53)')
+05:49:24 PM: DEBUG [Conexion.py:21] Conexión exitosa: <pyodbc.Connection object at 0x000001A1D06822A0>
+05:49:24 PM: DEBUG [Conexion.py:34] Se abrió correctamente el cursor: <pyodbc.Cursor object at 0x000001A1D066AE30>
+05:54:10 PM: DEBUG [Conexion.py:21] Conexión exitosa: <pyodbc.Connection object at 0x00000197958602A0>
+05:54:10 PM: DEBUG [Conexion.py:34] Se abrió correctamente el cursor: <pyodbc.Cursor object at 0x000001979584CEB0>
+05:59:46 PM: DEBUG [Conexion.py:21] Conexión exitosa: <pyodbc.Connection object at 0x000002B24FBBF2A0>
+05:59:46 PM: DEBUG [Conexion.py:34] Se abrió correctamente el cursor: <pyodbc.Cursor object at 0x000002B24FBA8AB0>
+06:00:16 PM: DEBUG [Conexion.py:21] Conexión exitosa: <pyodbc.Connection object at 0x0000027AF33C02A0>
+06:00:16 PM: DEBUG [Conexion.py:34] Se abrió correctamente el cursor: <pyodbc.Cursor object at 0x0000027AF33A8AB0>
+06:00:59 PM: DEBUG [Conexion.py:21] Conexión exitosa: <pyodbc.Connection object at 0x00000228CBFB02A0>
+06:00:59 PM: DEBUG [Conexion.py:34] Se abrió correctamente el cursor: <pyodbc.Cursor object at 0x00000228CBF98AB0>
+06:01:23 PM: DEBUG [Conexion.py:21] Conexión exitosa: <pyodbc.Connection object at 0x000001ABB26402A0>
+06:01:23 PM: DEBUG [Conexion.py:34] Se abrió correctamente el cursor: <pyodbc.Cursor object at 0x000001ABB2628AB0>
+06:01:39 PM: DEBUG [Conexion.py:21] Conexión exitosa: <pyodbc.Connection object at 0x000002457FDE02A0>
+06:01:39 PM: DEBUG [Conexion.py:34] Se abrió correctamente el cursor: <pyodbc.Cursor object at 0x000002457FDC8AB0>
+06:02:16 PM: DEBUG [Conexion.py:21] Conexión exitosa: <pyodbc.Connection object at 0x00000143FE1B02A0>
+06:02:16 PM: DEBUG [Conexion.py:34] Se abrió correctamente el cursor: <pyodbc.Cursor object at 0x00000143FE198AB0>
+06:04:36 PM: DEBUG [Conexion.py:21] Conexión exitosa: <pyodbc.Connection object at 0x0000025A028402A0>
+06:04:36 PM: DEBUG [Conexion.py:34] Se abrió correctamente el cursor: <pyodbc.Cursor object at 0x0000025A02828AB0>
+06:04:51 PM: DEBUG [Conexion.py:21] Conexión exitosa: <pyodbc.Connection object at 0x00000201A5F402A0>
+06:04:51 PM: DEBUG [Conexion.py:34] Se abrió correctamente el cursor: <pyodbc.Cursor object at 0x00000201A5D18AB0>
+06:05:15 PM: DEBUG [Conexion.py:21] Conexión exitosa: <pyodbc.Connection object at 0x000002DE26B202A0>
+06:05:15 PM: DEBUG [Conexion.py:34] Se abrió correctamente el cursor: <pyodbc.Cursor object at 0x000002DE26B08AB0>
+06:05:23 PM: DEBUG [Conexion.py:21] Conexión exitosa: <pyodbc.Connection object at 0x00000286255502A0>
+06:05:23 PM: DEBUG [Conexion.py:34] Se abrió correctamente el cursor: <pyodbc.Cursor object at 0x0000028625538AB0>
+06:05:28 PM: DEBUG [Conexion.py:21] Conexión exitosa: <pyodbc.Connection object at 0x000001ED58D302A0>
+06:05:28 PM: DEBUG [Conexion.py:34] Se abrió correctamente el cursor: <pyodbc.Cursor object at 0x000001ED58D18AB0>
+06:05:45 PM: DEBUG [Conexion.py:21] Conexión exitosa: <pyodbc.Connection object at 0x0000026EE47302A0>
+06:05:45 PM: DEBUG [Conexion.py:34] Se abrió correctamente el cursor: <pyodbc.Cursor object at 0x0000026EE4718AB0>
+06:07:00 PM: DEBUG [Conexion.py:21] Conexión exitosa: <pyodbc.Connection object at 0x0000017BC1AE02A0>
+06:07:00 PM: DEBUG [Conexion.py:34] Se abrió correctamente el cursor: <pyodbc.Cursor object at 0x0000017BC1AC8AB0>
+06:07:12 PM: DEBUG [Conexion.py:21] Conexión exitosa: <pyodbc.Connection object at 0x00000263018402A0>
+06:07:12 PM: DEBUG [Conexion.py:34] Se abrió correctamente el cursor: <pyodbc.Cursor object at 0x0000026301828AB0>
+06:09:56 PM: DEBUG [Conexion.py:21] Conexión exitosa: <pyodbc.Connection object at 0x000001CFCE9C02A0>
+06:09:56 PM: DEBUG [Conexion.py:34] Se abrió correctamente el cursor: <pyodbc.Cursor object at 0x000001CFCE9A8AB0>
+07:07:11 PM: DEBUG [Conexion.py:21] Conexión exitosa: <pyodbc.Connection object at 0x000001A41A59E440>
+07:07:11 PM: DEBUG [Conexion.py:34] Se abrió correctamente el cursor: <pyodbc.Cursor object at 0x000001A41A5AB530>
+07:18:25 PM: DEBUG [Conexion.py:21] Conexión exitosa: <pyodbc.Connection object at 0x00000178BF021370>
+07:18:25 PM: DEBUG [Conexion.py:34] Se abrió correctamente el cursor: <pyodbc.Cursor object at 0x00000178BF029630>
+07:45:24 PM: DEBUG [Conexion.py:21] Conexión exitosa: <pyodbc.Connection object at 0x000002536D39E2A0>
+07:45:24 PM: DEBUG [Conexion.py:34] Se abrió correctamente el cursor: <pyodbc.Cursor object at 0x000002536D3A8530>
+07:46:08 PM: DEBUG [Conexion.py:21] Conexión exitosa: <pyodbc.Connection object at 0x00000202F1ECC100>
+07:46:08 PM: DEBUG [Conexion.py:34] Se abrió correctamente el cursor: <pyodbc.Cursor object at 0x00000202F1EB5CB0>
+07:46:20 PM: DEBUG [Conexion.py:21] Conexión exitosa: <pyodbc.Connection object at 0x000001DEDAF8E100>
+07:46:20 PM: DEBUG [Conexion.py:34] Se abrió correctamente el cursor: <pyodbc.Cursor object at 0x000001DEDAF75CB0>
+07:52:03 PM: DEBUG [Conexion.py:21] Conexión exitosa: <pyodbc.Connection object at 0x0000020D6FAFF100>
+07:52:03 PM: DEBUG [Conexion.py:34] Se abrió correctamente el cursor: <pyodbc.Cursor object at 0x0000020D6FAE5CB0>
+07:54:30 PM: DEBUG [Conexion.py:21] Conexión exitosa: <pyodbc.Connection object at 0x0000022D38E0E100>
+07:54:30 PM: DEBUG [Conexion.py:34] Se abrió correctamente el cursor: <pyodbc.Cursor object at 0x0000022D38DF5D30>
+07:56:12 PM: DEBUG [Conexion.py:21] Conexión exitosa: <pyodbc.Connection object at 0x00000208C9F8E2A0>
+07:56:12 PM: DEBUG [Conexion.py:34] Se abrió correctamente el cursor: <pyodbc.Cursor object at 0x00000208C9F75BB0>
+07:56:27 PM: DEBUG [Conexion.py:21] Conexión exitosa: <pyodbc.Connection object at 0x0000018B30EEF1D0>
+07:56:27 PM: DEBUG [Conexion.py:34] Se abrió correctamente el cursor: <pyodbc.Cursor object at 0x0000018B30ED5D30>
+07:56:59 PM: DEBUG [Conexion.py:21] Conexión exitosa: <pyodbc.Connection object at 0x0000022E372DF1D0>
+07:56:59 PM: DEBUG [Conexion.py:34] Se abrió correctamente el cursor: <pyodbc.Cursor object at 0x0000022E372C5D30>
+07:57:34 PM: DEBUG [Conexion.py:21] Conexión exitosa: <pyodbc.Connection object at 0x00000203671EE2A0>
+07:57:34 PM: DEBUG [Conexion.py:34] Se abrió correctamente el cursor: <pyodbc.Cursor object at 0x00000203671D5BB0>
+07:58:58 PM: DEBUG [Conexion.py:21] Conexión exitosa: <pyodbc.Connection object at 0x00000230770301D0>
+07:58:58 PM: DEBUG [Conexion.py:34] Se abrió correctamente el cursor: <pyodbc.Cursor object at 0x0000023077015D30>
+08:02:37 PM: DEBUG [Conexion.py:21] Conexión exitosa: <pyodbc.Connection object at 0x000001E2A7FDD2A0>
+08:02:37 PM: DEBUG [Conexion.py:34] Se abrió correctamente el cursor: <pyodbc.Cursor object at 0x000001E2A7FC4D30>
+08:04:09 PM: DEBUG [Conexion.py:21] Conexión exitosa: <pyodbc.Connection object at 0x000001D1EBBAE2A0>
+08:04:09 PM: DEBUG [Conexion.py:34] Se abrió correctamente el cursor: <pyodbc.Cursor object at 0x000001D1EBB94BB0>
+08:10:29 PM: DEBUG [Conexion.py:21] Conexión exitosa: <pyodbc.Connection object at 0x000001EBB0A011D0>
+08:10:29 PM: DEBUG [Conexion.py:34] Se abrió correctamente el cursor: <pyodbc.Cursor object at 0x000001EBB0A2C430>
+08:10:46 PM: DEBUG [Conexion.py:21] Conexión exitosa: <pyodbc.Connection object at 0x0000022739EE1100>
+08:10:46 PM: DEBUG [Conexion.py:34] Se abrió correctamente el cursor: <pyodbc.Cursor object at 0x0000022739EC5E30>
+08:19:33 PM: DEBUG [Conexion.py:21] Conexión exitosa: <pyodbc.Connection object at 0x0000022860832370>
+08:19:33 PM: DEBUG [Conexion.py:34] Se abrió correctamente el cursor: <pyodbc.Cursor object at 0x000002286083C7B0>

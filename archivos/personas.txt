@@ -1,0 +1,3 @@
+
+Persona {'_nombre': 'Luis', '_cedula': '0258741369', '_telefono': '0123456789', '_email': 'luis@mail.com'}
+Persona {'_nombre': 'Maria', '_cedula': '0258741369', '_telefono': '0258741369', '_email': 'maria@mail.com'}

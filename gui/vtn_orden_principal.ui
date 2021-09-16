@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>vtn_orden_principal</class>
+ <widget class="QMainWindow" name="vtn_orden_principal">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>800</width>
+    <height>600</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Administración de Ordenes</string>
+  </property>
+  <widget class="QWidget" name="centralwidget"/>
+  <widget class="QMenuBar" name="mnb_principal">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>800</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="mnu_Computador">
+    <property name="title">
+     <string>Computador</string>
+    </property>
+    <addaction name="mni_computador_ingreso"/>
+    <addaction name="mni_computador_modificar"/>
+    <addaction name="mni_computador_eliminar"/>
+   </widget>
+   <widget class="QMenu" name="mnu_Monitor">
+    <property name="title">
+     <string>Monitor</string>
+    </property>
+    <addaction name="mni_monitor_ingreso"/>
+    <addaction name="mni_monitor_modificar"/>
+    <addaction name="mni_monitor_eliminar"/>
+   </widget>
+   <widget class="QMenu" name="mnu_Disp_Entrada">
+    <property name="title">
+     <string>Disp. Entrada</string>
+    </property>
+    <widget class="QMenu" name="mnu_Teclado">
+     <property name="title">
+      <string>Teclado</string>
+     </property>
+     <addaction name="mni_teclado_ingreso"/>
+     <addaction name="mni_teclado_modificar"/>
+     <addaction name="mni_teclado_eliminar"/>
+    </widget>
+    <widget class="QMenu" name="mnu_raton">
+     <property name="title">
+      <string>Ratón</string>
+     </property>
+     <addaction name="mni_raton_ingreso"/>
+     <addaction name="mni_raton_modificar"/>
+     <addaction name="mni_raton_eliminar"/>
+    </widget>
+    <addaction name="mnu_Teclado"/>
+    <addaction name="mnu_raton"/>
+    <addaction name="mni_disp_entrada_ingresar"/>
+   </widget>
+   <widget class="QMenu" name="mnu_Ayuda">
+    <property name="title">
+     <string>Ayuda</string>
+    </property>
+    <addaction name="mni_acerca"/>
+   </widget>
+   <addaction name="mnu_Computador"/>
+   <addaction name="mnu_Monitor"/>
+   <addaction name="mnu_Disp_Entrada"/>
+   <addaction name="mnu_Ayuda"/>
+  </widget>
+  <widget class="QStatusBar" name="stb_estado"/>
+  <action name="mni_computador_ingreso">
+   <property name="text">
+    <string>Ingresar</string>
+   </property>
+  </action>
+  <action name="mni_computador_modificar">
+   <property name="text">
+    <string>Modificar</string>
+   </property>
+  </action>
+  <action name="mni_computador_eliminar">
+   <property name="text">
+    <string>Eliminar</string>
+   </property>
+  </action>
+  <action name="mni_monitor_ingreso">
+   <property name="text">
+    <string>Ingreso</string>
+   </property>
+  </action>
+  <action name="mni_monitor_modificar">
+   <property name="text">
+    <string>Modificar</string>
+   </property>
+  </action>
+  <action name="mni_monitor_eliminar">
+   <property name="text">
+    <string>Eliminar</string>
+   </property>
+  </action>
+  <action name="mni_teclado_ingreso">
+   <property name="text">
+    <string>Ingresar</string>
+   </property>
+  </action>
+  <action name="mni_teclado_modificar">
+   <property name="text">
+    <string>Modificar</string>
+   </property>
+  </action>
+  <action name="mni_teclado_eliminar">
+   <property name="text">
+    <string>Eliminar</string>
+   </property>
+  </action>
+  <action name="mni_raton_ingreso">
+   <property name="text">
+    <string>Ingresar</string>
+   </property>
+  </action>
+  <action name="mni_raton_modificar">
+   <property name="text">
+    <string>Modificar</string>
+   </property>
+  </action>
+  <action name="mni_raton_eliminar">
+   <property name="text">
+    <string>Eliminar</string>
+   </property>
+  </action>
+  <action name="mni_acerca">
+   <property name="text">
+    <string>Acerca</string>
+   </property>
+  </action>
+  <action name="mni_disp_entrada_ingresar">
+   <property name="text">
+    <string>Ingresar</string>
+   </property>
+  </action>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
